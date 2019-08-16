@@ -22,7 +22,7 @@ func main(){
 				fmt.Print(" ")
 			}
 		}
-		if i>4{
+		if i>=4{
 			a++
 		}
 		fmt.Println()	
